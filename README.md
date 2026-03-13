@@ -1,11 +1,4 @@
 # Hi, I'm FAN XU! 👋
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fanxus&theme=dark&hide_border=true&background=90%2C000000%2CFFFFFF" alt="GitHub Streak">
-  </a>
-</p>
-
 ---
 
 ## 🔧 Technologies & Tools
@@ -21,6 +14,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fanxus&theme=dark&hide_border=true&background=90%2C000000%2CFFFFFF" alt="GitHub Streak">
+  </a>
+</p>
 
 ## 🚀 About Me
 
