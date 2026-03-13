@@ -1,6 +1,13 @@
 # Hi, I'm FAN XU! 👋
 ---
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" style="display: block; margin-left: auto; margin-right: auto;" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino">
+    </td>
+  </tr>
+</table>
+
 ## 🔧 Technologies & Tools
 
 <p align="center">
