@@ -1,6 +1,8 @@
 # Hi, I'm FAN XU! 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanxus&theme=dark&hide_border=true&background=90%2C000000%2CFFFFFF)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanxus&theme=dark&hide_border=true&background=90%2C000000%2CFFFFFF)](https://git.io/streak-stats)
+</p>
 
 ---
 
