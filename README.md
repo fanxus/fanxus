@@ -1,7 +1,9 @@
 # Hi, I'm FAN XU! 👋
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fanxus&theme=dark&hide_border=true&background=90%2C000000%2CFFFFFF)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fanxus&theme=dark&hide_border=true&background=90%2C000000%2CFFFFFF" alt="GitHub Streak">
+  </a>
 </p>
 
 ---
